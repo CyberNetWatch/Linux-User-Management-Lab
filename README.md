@@ -5,8 +5,7 @@ This repository contains a lab exercise from the Google Cybersecurity Profession
 ---
 
 ## 📸 **Screenshot**
-A screenshot of the terminal output showing the entire lab process is included in the `/screenshots` folder.
-
+![screenshot](screenshots/user_management_lab.png)
 ---
 
 ## 🔥 **Scenario**
